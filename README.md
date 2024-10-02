@@ -1,1 +1,1 @@
-"# cEhlers88" 
+Hi, I'm Christoph, a passionate software developer from Bremen, Germany. My current focus is on web development (PHP and Java on the backend, and TypeScript, SCSS, and HTML on the frontend) as well as Windows development (C#). Additionally, I enjoy programming microcontrollers and minicomputers, such as Arduino, ESP32, and Raspberry Pi, in C++ as a hobby.
